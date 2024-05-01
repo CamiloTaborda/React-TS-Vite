@@ -1,0 +1,1 @@
+type IfoxImagesItem = { id: string, url: string };
